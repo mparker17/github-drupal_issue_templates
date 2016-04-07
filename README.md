@@ -12,6 +12,8 @@ This project takes Drupal's issue summary templates, converts them to Markdown, 
 
 1. Clone this repository to your computer.
 
+		git clone https://github.com/mparker17/github-drupal_issue_templates.git /path/to/this/repo
+
 ## Use
 
 1. Copy the `.github` folder into your project.
