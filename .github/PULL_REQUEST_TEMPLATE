@@ -1,0 +1,27 @@
+### Problem/Motivation
+
+(Why the issue was filed, steps to reproduce the problem, etc.)
+
+### Proposed resolution
+
+(Description of the proposed solution, the rationale behind it, and workarounds for people who cannot use the patch.)
+
+### Remaining tasks
+
+(reviews needed, tests to be written or run, documentation to be written, etc.)
+
+### User interface changes
+
+(New or changed features/functionality in the user interface, modules added or removed, changes to URL paths, changes to user interface text.)
+
+### API changes
+
+(API changes/additions that would affect module, install profile, and theme developers, including examples of before/after code if appropriate.)
+
+### Data model changes
+
+(Database or configuration data changes that would make stored data on an existing site incompatible with the site's updated codebase, including changes to hook_schema(), configuration schema or keys, or the expected format of stored data, etc.)
+
+### Original report by [username]
+
+(Text of the original report, for legacy issues whose initial post was not the issue summary. Use rarely.)
