@@ -2,6 +2,8 @@
 
 [Drupal issue summary templates](https://www.drupal.org/issue-summaries) in Github format.
 
+Like these templates, but use Git**lab** instead? Check out [mparker17/gitlab-drupal_issue_templates](https://github.com/mparker17/gitlab-drupal_issue_templates).
+
 I work a lot in the Drupal ecosystem, and I find Drupal's [issue summary templates](https://www.drupal.org/issue-summaries) helpful, and I'd like to be able to use them on Github projects.
 
 Github supports arbitrary [issue templates](https://help.github.com/articles/creating-an-issue-template-for-your-repository/) and [pull request templates](https://help.github.com/articles/creating-a-pull-request-template-for-your-repository/).
